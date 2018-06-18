@@ -2,7 +2,7 @@ package screenshot
 
 import (
 	"errors"
-	"github.com/kbinani/screenshot/internal/util"
+	"github.com/brendanporter/screenshot-util"
 	win "github.com/lxn/win"
 	"image"
 	"syscall"
