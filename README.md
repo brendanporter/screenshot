@@ -20,7 +20,7 @@ example
 	package main
 
 	import (
-		"github.com/kbinani/screenshot"
+		"github.com/brendanporter/screenshot"
 		"image/png"
 		"os"
 		"fmt"
