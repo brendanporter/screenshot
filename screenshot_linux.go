@@ -1,7 +1,7 @@
 package screenshot
 
 import (
-	"./internal/xwindow"
+	"github.com/brendanporter/screenshot-xwindow"
 	"image"
 )
 
